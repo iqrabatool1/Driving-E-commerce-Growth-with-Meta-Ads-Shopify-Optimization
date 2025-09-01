@@ -54,3 +54,5 @@ This project highlights how combining paid ads, SEO, Shopify optimization, and e
 
 Results & Visuals
 Here’s a snapshot from the Shopify Analytics dashboard showing the sales growth achieved during the campaign:
+
+https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-01%20102248.png
