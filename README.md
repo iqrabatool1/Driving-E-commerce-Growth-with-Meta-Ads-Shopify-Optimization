@@ -67,3 +67,46 @@ Automated Shopify processes enhanced customer experience
 Learned full e-commerce workflow: Ads → Store Optimization → Automation → Analytics
 
  Follow the screenshot here ➝
+
+
+Method / Approach:
+
+- Tested multiple creatives and ad copies to optimize campaigns.
+- Ran **Meta Ads** (Facebook & Instagram) and **Google Ads**.
+- Boosted Instagram Reels to drive traffic.
+- Optimized Shopify store: Installed smart plugins, automated email flows, managed catalog.
+
+Meta Pixel Setup 
+  Track conversions accurately
+- Measure the performance of ads
+- Optimize campaigns based on visitor actions
+
+Steps taken
+1. Created and installed Meta Pixel on the Shopify store.
+2. Configured key events: Add to Cart, Purchase, View Content.
+3. Verified Pixel functionality through Meta Events Manager.
+4. Used Pixel data to optimize ad targeting and measure ROI.
+
+
+
+ 
+ Key Learning :
+
+- A/B testing ads improves ROI significantly.
+- Analytics-driven campaign decisions bring measurable growth.
+- E-commerce success requires both marketing and technical store optimization.
+
+ 
+
+# Before & After Table
+
+| Aspect | Before Campaign | After Campaign / Improvements |
+| --- | --- | --- |
+| Total SalesPKR |  496,005.05 | PKR 622,123 |
+| Shopify Store Management | Manual catalog updates, no automation | Installed smart plugins, automated emails, improved UX |
+| SEO Performance | Low organic traffic, unoptimized pages | SEO optimized product pages, meta descriptions updated |
+| Ad Tracking & Conversion | No Meta Pixel installed | Meta Pixel installed, events tracked (Add to Cart, Purchase) |
+| Audience Targeting | Undefined audience  | segmentsCustom & lookalike audiences, targeted for higher conversion |
+
+
+
