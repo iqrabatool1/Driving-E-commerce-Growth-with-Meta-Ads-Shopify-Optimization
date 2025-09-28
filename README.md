@@ -71,15 +71,15 @@ Learned full e-commerce workflow: Ads → Store Optimization → Automation → 
 
 Method / Approach:
 
-- Tested multiple creatives and ad copies to optimize campaigns.
-- Ran **Meta Ads** (Facebook & Instagram) and **Google Ads**.
-- Boosted Instagram Reels to drive traffic.
-- Optimized Shopify store: Installed smart plugins, automated email flows, managed catalog.
+ Tested multiple creatives and ad copies to optimize campaigns.
+ Ran **Meta Ads** (Facebook & Instagram) and **Google Ads**.
+ Boosted Instagram Reels to drive traffic.
+ Optimized Shopify store: Installed smart plugins, automated email flows, managed catalog.
 
 Meta Pixel Setup 
   Track conversions accurately
-- Measure the performance of ads
-- Optimize campaigns based on visitor actions
+ Measure the performance of ads
+ Optimize campaigns based on visitor actions
 
 Steps taken
 1. Created and installed Meta Pixel on the Shopify store.
@@ -87,18 +87,16 @@ Steps taken
 3. Verified Pixel functionality through Meta Events Manager.
 4. Used Pixel data to optimize ad targeting and measure ROI.
 
-
-
+ Follow the screenshot here ➝https: https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-21%20140804.png
  
  Key Learning :
-
-- A/B testing ads improves ROI significantly.
-- Analytics-driven campaign decisions bring measurable growth.
-- E-commerce success requires both marketing and technical store optimization.
+ A/B testing ads improves ROI significantly.
+ Analytics-driven campaign decisions bring measurable growth.
+ E-commerce success requires both marketing and technical store optimization.
 
  
 
-# Before & After Table
+ Before & After Table
 
 | Aspect | Before Campaign | After Campaign / Improvements |
 | --- | --- | --- |
