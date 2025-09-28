@@ -22,7 +22,7 @@ No Meta Pixel installed (no conversion tracking).
 Store lacked automation and smart plugins.
 No structured ad testing for creatives and copies.
 
-Follow the screenshot here ➝ View Screenshot
+Follow the screenshot here ➝https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-20%20154523.png
 
 Method / Approach:
 
