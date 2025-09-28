@@ -45,7 +45,7 @@ Verified Pixel functionality through Meta Events Manager.
 Used Pixel data to optimize ad targeting and measure ROI.
 
 
-Follow the screenshot here ➝ View Screenshot
+Follow the screenshot here ➝https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-20%20154615.png
 
 Key Learning:
 A/B testing ads improves ROI significantly.
