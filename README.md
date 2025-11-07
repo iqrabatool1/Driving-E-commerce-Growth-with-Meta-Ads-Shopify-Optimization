@@ -61,13 +61,7 @@ Ad tracking fully functional via Meta Pixel, with events monitored for optimizat
 Audience targeting refined using custom and lookalike audiences, leading to higher conversions.
 Screenshot: After Campaign
 
-Before & After Snapshot (Percentage Increase)
-Aspect	Before Campaign	After Campaign / Improvements
-Total Sales	PKR 496,005.05	+25% increase → PKR 622,123
-Shopify Store Management	Manual catalog updates, no automation	Installed smart plugins, automated emails, improved UX
-SEO Performance	Low organic traffic, unoptimized pages	SEO optimized product pages, meta descriptions updated
-Ad Tracking & Conversion	No Meta Pixel installed	Meta Pixel installed, events tracked (Add to Cart, Purchase)
-Audience Targeting	Undefined audience	Custom & lookalike audiences, targeted for higher conversion
+
 
 Key Learnings
 A/B testing creatives and copies significantly improves ROI.
