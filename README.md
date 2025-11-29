@@ -31,8 +31,9 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 - Store lacked automation and smart plugins.  
 - No structured ad testing for creatives and copies.  
 
-**Screenshot:**  
-[Before Campaign Screenshot](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-20%20154523.png)  
+
+**Before Campaign Screenshot:**  
+![Before Campaign](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154523.png)
 
 ---
 
@@ -58,8 +59,10 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 - Verified Pixel functionality through Meta Events Manager.  
 - Used Pixel data to optimize ad targeting and measure ROI.  
 
-**Screenshot:**  
-[Meta Pixel Setup](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-20%20154615.png)  
+ 
+**Meta Pixel Setup Screenshot:**  
+![Meta Pixel Setup](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154615.png)
+
 
 ---
 
@@ -95,9 +98,10 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 | **Audience Targeting** | Undefined audience | Custom & lookalike audiences, targeted for higher conversion |
 
 **Screenshot:**  
-[After Campaign Screenshot](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/blob/main/Screenshot%202025-09-21%20140804.png)  
 
----
+
+![After Campaign Screenshot](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-21%20140804.png)
+
 
 ## Results / After
 
