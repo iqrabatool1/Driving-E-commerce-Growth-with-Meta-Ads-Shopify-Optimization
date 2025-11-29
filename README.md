@@ -24,16 +24,24 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 
 ---
 
-## Challenges / Before
+<table>
+  <tr>
+    <td style="vertical-align: top; padding-right: 20px; text-align: left;">
+      <h3>Challenges / Before</h3>
+      <ul>
+        <li>Sales in May–June: <strong>PKR 496,005.05</strong></li>
+        <li>No Meta Pixel installed (no conversion tracking)</li>
+        <li>Store lacked automation and smart plugins</li>
+        <li>No structured ad testing for creatives and copies</li>
+      </ul>
+    </td>
+    <td>
+      <img src="https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154523.png" width="400">
+    </td>
+  </tr>
+</table>
 
-- Sales in May–June: **PKR 496,005.05**  
-- No Meta Pixel installed (no conversion tracking).  
-- Store lacked automation and smart plugins.  
-- No structured ad testing for creatives and copies.  
 
-
-**Before Campaign Screenshot:**  
-![Before Campaign](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154523.png)
 
 ---
 
@@ -61,7 +69,9 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 
  
 **Meta Pixel Setup Screenshot:**  
-![Meta Pixel Setup](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154615.png)
+<img src="https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-21%20140804.png" width="400">
+
+
 
 
 ---
@@ -98,9 +108,8 @@ This project showcases a complete e-commerce growth strategy combining **Meta Ad
 | **Audience Targeting** | Undefined audience | Custom & lookalike audiences, targeted for higher conversion |
 
 **Screenshot:**  
+<img src="https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-20%20154615.png" width="400">
 
-
-![After Campaign Screenshot](https://github.com/iqrabatool1/Driving-E-commerce-Growth-with-Meta-Ads-Shopify-Optimization/raw/main/Screenshot%202025-09-21%20140804.png)
 
 
 ## Results / After
